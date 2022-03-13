@@ -1,0 +1,22 @@
+#text-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+textarea {
+  height: 30Px;
+  width: 30%;
+}
+
+td {
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+table,
+th,
+td {
+  border: 2px solid;
+}
